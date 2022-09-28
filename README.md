@@ -1,2 +1,2 @@
 # Ajuste gamma de imágenes
-Este repositorio contiene la información para realizar el ajuste gamma en imágenes digitales. Se realizó como una práctica de la materia de procesamiento  digital de imágenes
+Este repositorio contiene la información para realizar el ajuste gamma en imágenes digitales. Se realizó como una práctica de la materia de procesamiento  digital de imágenes en UNITEC
