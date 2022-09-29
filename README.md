@@ -21,6 +21,7 @@ Se agregan algunos resultados  de las imágenes procesadas con el script de Matl
 ## Resultados
 
 Comparación entre una imagen sin ajuste gamma (imagen superior) y una imagen corregida con gamma = 2.5 (imagen inferior)
+
 ![image](https://user-images.githubusercontent.com/72757419/192911235-7d040965-b2d7-4f0f-994a-77deacb74497.png)
 
 
